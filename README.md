@@ -4,9 +4,11 @@
 # Compile the programm using the following commands:
 #
 ```
+cd {Project-DIR}
+mkdir build
 cd build
-.../{Project-DIR}/build/$ cmake -G"Unix Makefiles" ../
-.../{Project-DIR}/build/$ make
+cmake -G"Unix Makefiles" ../
+make
 ```
 
 # Test the program using the following commands:
