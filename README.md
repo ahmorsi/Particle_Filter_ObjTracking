@@ -4,7 +4,7 @@
 # Compile the programm using the following commands:
 #
 ```
-# cd build
+cd build
 .../{Project-DIR}/build/$ cmake -G"Unix Makefiles" ../
 .../{Project-DIR}/build/$ make
 ```
