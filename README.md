@@ -1,4 +1,4 @@
-# Particle_Filter_ObjTracking
+# Object Tracking using Particle Filter
 
 <img src="http://i.makeagif.com/media/12-25-2016/ttWakS.gif" height="480" width="720" align="middle">
 # Compile the programm using the following commands:
