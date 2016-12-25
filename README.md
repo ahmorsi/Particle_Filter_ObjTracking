@@ -1,6 +1,6 @@
 # Particle_Filter_ObjTracking
 
-![NemoTracking](http://i.makeagif.com/media/12-25-2016/ttWakS.gif)
+![NemoTracking](http://i.makeagif.com/media/12-25-2016/ttWakS.gif =240x360)
 
 # Compile the programm using the following commands:
 #
