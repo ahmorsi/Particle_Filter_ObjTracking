@@ -1,6 +1,6 @@
 # Particle_Filter_ObjTracking
 
-<img src="http://i.makeagif.com/media/12-25-2016/ttWakS.gif" width="480" height="720">
+<img src="http://i.makeagif.com/media/12-25-2016/ttWakS.gif" height="480" width="720">
 # Compile the programm using the following commands:
 #
 ```
